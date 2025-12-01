@@ -1,21 +1,17 @@
 # so basically a for loop and you go - or + but then loop back around
+import math
 
-pos = 50 # where the dial is
-count = 0 # if 0
+pos = 50
+count = 0
 
 with open("C:/Users/saanv/Downloads/input.txt", "r") as lines:
   for line in lines:
-    val = int(line[1:]) % 100 # super tuff real line value
+    val = int(line[1:])
     if line[0] == "L":
-      if pos - val < 0:
-        pos = 100 - abs(pos - val)
-      else:
-        pos -= val
+      pos = (pos - val) % 100
     else:
-      if pos + val > 99:
-        pos = 0 + abs(100 - (pos + val))
-      else:
-        pos += val
+      pos = (pos + val) % 100
+      
     if pos == 0:
       count += 1
 
