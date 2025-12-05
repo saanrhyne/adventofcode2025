@@ -7,7 +7,7 @@ My solutions and work in progress for the 2025 [Advent of Code](https://adventof
 |  2   |      Gift Shop      | ⭐ ⭐ | ⭐ ⭐ |
 |  3   |        Lobby        | ⭐ ⭐ |        |
 |  4   | Printing Department | ⭐ ⭐ |        |
-|  5   |         ???         |        |        |
+|  5   |      Cafeteria      | ⭐ ⭐ |        |
 |  6   |         ???         |        |        |
 |  7   |         ???         |        |        |
 |  8   |         ???         |        |        |
