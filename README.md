@@ -8,9 +8,9 @@ My solutions and work in progress for the 2025 [Advent of Code](https://adventof
 |  3   |        Lobby        | ⭐ ⭐ |        |
 |  4   | Printing Department | ⭐ ⭐ |        |
 |  5   |      Cafeteria      | ⭐ ⭐ |        |
-|  6   |   Trash Compactor   |   ⭐   |        |
+|  6   |   Trash Compactor   | ⭐ ⭐ |        |
 |  7   |    Laboratories     |        |        |
-|  8   |         ???         |        |        |
+|  8   |     Playground      |        |        |
 |  9   |         ???         |        |        |
 |  10  |         ???         |        |        |
 |  11  |         ???         |        |        |
