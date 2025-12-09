@@ -12,11 +12,11 @@ count = 0
 
 for i in range(len(lines)):
   for j in range(len(lines[i])):
-    if "^" in lines[i][:j]:
-      top = lines[i][:j]
-      top = top.index("^")
-      print(top)
-    print(lines[i])
+    start = 0
+    print(lines[i][start:j])
+    #while ("^" in lines[i][start:j]):
+    #  start += lines[i][start:j].index("^")
+    # print(start)
     #if lines[i][j] == "^" and ("^" not in lines[i][:j]):
     #  count += 1
 
