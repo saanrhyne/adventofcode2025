@@ -11,7 +11,7 @@ My solutions and work in progress for the 2025 [Advent of Code](https://adventof
 |  6   |   Trash Compactor   | ⭐ ⭐ |        |
 |  7   |    Laboratories     |        |        |
 |  8   |     Playground      |        |        |
-|  9   |         ???         |        |        |
+|  9   |    Movie Theater    |   ⭐   |        |
 |  10  |         ???         |        |        |
 |  11  |         ???         |        |        |
 |  12  |         ???         |        |        |
